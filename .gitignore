@@ -1,0 +1,5 @@
+# Editors & Environment
+.idea/
+.vscode/
+.vagrant/
+.env
