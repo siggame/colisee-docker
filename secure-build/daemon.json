@@ -7,8 +7,6 @@
         "${REGISTRY_HOST}:${REGISTRY_PORT}"
     ],
     "icc": false,
-    "ip-masq": false,
     "iptables": true,
-    "storage-driver": "overlay",
-    "userland-proxy": false
+    "storage-driver": "overlay"
 }
